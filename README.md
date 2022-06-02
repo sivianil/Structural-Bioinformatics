@@ -1,2 +1,4 @@
 # Structural-Bioinformatics
 I will try to upload all the assignments I have done during my masters in structural bioinformatics course. Assignment1 explains about the short function to compute **dihedral angle** for any given four vectors. And goes into little deep, caculate the  dihedral angle (**both phi and psi**) for a given **protein in PDB/mmCIF** file format. Then plotting a **Ramchandran plot out of all phi/psi angles** computed. One can depicts the **α-helix, β-sheets and γ-turns** from the plot. 
+
+Assignment2 describes the application of moment of inertia, rotation matrix and superposition. Given two coordinate sets for two protein models in xyz file format contains the C-alpha trace of the peptide, but different NMR model. Finding the centre of mass coordinates and centering the both models to zero. Rotate the model 2 in such a way that both sets of moment of inertia vectors and their associated coordinates gets superimposed.
